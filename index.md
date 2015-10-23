@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="/images/rubilacxe3.jpg" class="floatpic" width="326" height="245">
+<img src="/images/rubilacxe3.JPG" class="floatpic" width="326" height="245">
 My name is Linhu Li, I'm a postdoctoral researcher of [CSRC] and [CeFEMA]. 
 
 To be continued..
