@@ -9,15 +9,10 @@ pubs:
     url: http://iopscience.iop.org/article/10.1209/0295-5075/112/10004/meta
    
 
-  - key: "ding:pldi:2015"
-    author: "Yufei Ding, Jason Ansel, Kalyan Veeramachaneni, Xipeng Shen, Una-May O’Reilly, Saman Amarasinghe"
-    title: "Autotuning Algorithmic Choice for Input Sensitivity"
-    url: "http://groups.csail.mit.edu/commit/papers/2015/yding-pldi15-pbinput.pdf"
-    keywords: "OpenTuner"
-    month: "June"
-    year: "2015"
-    address: "Portland, Oregon"
-    booktitle: "ACM SIGPLAN Conference on Programming Language Design, Implementation"
+  - author: "Linhu Li, Shu Chen"
+    title: "Characterization of topological phase transitions via topological properties of transition points"
+    url: "http://journals.aps.org/prb/abstract/10.1103/PhysRevB.92.085118"
+    booktitle: " Phys. Rev. B 92, 085118 (2015)"
 
   - key: "ansel:pact:2014"
     author: "Jason Ansel, Shoaib Kamil, Kalyan Veeramachaneni, Jonathan Ragan-Kelley, Jeffrey Bosboom, Una-May O'Reilly, Saman Amarasinghe"
