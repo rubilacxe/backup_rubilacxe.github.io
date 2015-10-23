@@ -7,14 +7,33 @@ pubs:
     title: "Winding numbers of phase transition points for one-dimensional topological systems"
     booktitle: "EPL, 112 (2015) 10004"
     url: http://iopscience.iop.org/article/10.1209/0295-5075/112/10004/meta
-   
-
+  
   - author: "Linhu Li, Shu Chen"
     title: "Characterization of topological phase transitions via topological properties of transition points"
     url: "http://journals.aps.org/prb/abstract/10.1103/PhysRevB.92.085118"
-    booktitle: " Phys. Rev. B 92, 085118 (2015)"
+    booktitle: "Phys. Rev. B 92, 085118 (2015)"
 
-  - key: "ansel:pact:2014"
+  - author: "Linhu Li, Shu Chen"
+    title: "Hidden-symmetry-protected topological phases on a one-dimensional lattice"
+    url: "http://iopscience.iop.org/article/10.1209/0295-5075/109/40006"
+    booktitle: "EPL, 109 (2015) 40006"
+
+  - author: "Linhu Li, Zhihao Xu, Shu Chen"
+    title: "Topological phases of generalized Su-Schrieffer-Heeger models"
+    url: "http://journals.aps.org/prb/abstract/10.1103/PhysRevB.89.085111"
+    booktitle: "Phys. Rev. B 89, 085111 (2014)"
+
+  - author: "Zhihao Xu, Linhu Li, Shu Chen"
+    title: "Fractional topological states of dipolar fermions in one-dimensional optical superlattices"
+    url: "http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.110.215301"
+    booktitle: "Phys. Rev. Lett. 110, 215301 (2013)"
+
+  - author: "Zhihao Xu, Linhu Li, Gao Xianlong, Shu Chen"
+    title: "Characterization of topological phase transitions via topological properties of transition points"
+    url: "http://iopscience.iop.org/article/10.1088/0953-8984/25/5/055601/meta"
+    booktitle: " J. Phys.: Condens. Matter 25 (2013) 055601"
+
+  {%- key: "ansel:pact:2014"
     author: "Jason Ansel, Shoaib Kamil, Kalyan Veeramachaneni, Jonathan Ragan-Kelley, Jeffrey Bosboom, Una-May O'Reilly, Saman Amarasinghe"
     title: "OpenTuner: An Extensible Framework for Program Autotuning"
     url: "http://groups.csail.mit.edu/commit/papers/2014/ansel-pact14-opentuner.pdf"
@@ -256,7 +275,7 @@ pubs:
     hidden: true
     type: "Talk"
     month: "April"
-    year: "2011"
+    year: "2011"%}
 
 
 ---
