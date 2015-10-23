@@ -3,15 +3,11 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 pubs:
-  - author: "Daniel Haas, Jason Ansel, Lydia Gu, Adam Marcus"
-    title: "Argonaut: Macrotask Crowdsourcing for Complex Data Processing"
-    keywords: "Locu"
-    month: "September"
-    year: "2015"
-    address: "Kohala Coast, Hawaii"
-    booktitle: "International Conference on Very Large Data Bases"
-    url: 2015vldb-argonaut.pdf
-    bibtex: 2015vldb-argonaut.bib
+  - author: "Linhu Li, Chao Yang, Shu Chen"
+    title: "Winding numbers of phase transition points for one-dimensional topological systems"
+    booktitle: "EPL, 112 (2015) 10004"
+    url: http://iopscience.iop.org/article/10.1209/0295-5075/112/10004/meta
+   
 
   - key: "ding:pldi:2015"
     author: "Yufei Ding, Jason Ansel, Kalyan Veeramachaneni, Xipeng Shen, Una-May O’Reilly, Saman Amarasinghe"
