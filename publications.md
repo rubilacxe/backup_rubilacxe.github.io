@@ -3,6 +3,21 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 pubs:
+  - author: "Linhu Li, Eduardo V. Castro, Pedro D. Sacramento"
+    title: "Strain induced topological phase transition at zigzag edges of monolayer transition-metal dichalcogenides"
+    booktitle: "Phys. Rev. B (accepted)"
+    url: https://arxiv.org/abs/1607.04337
+
+  - author: "Linhu Li, Miguel A. N. Araújo"
+    title: "Topological insulating phases from two-dimensional nodal loop semimetals"
+    booktitle: "Phys. Rev. B 94, 165117 (2016)"
+    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.165117
+
+  - author: "Linhu Li, Chao Yang, Shu Chen"
+    title: "Topological invariants for phase transition points of one-dimensional Z2 topological systems"
+    booktitle: "Eur. Phys. J. B (2016) 89: 195"
+    url: http://link.springer.com/article/10.1140%2Fepjb%2Fe2016-70325-x
+
   - author: "Linhu Li, Chao Yang, Shu Chen"
     title: "Winding numbers of phase transition points for one-dimensional topological systems"
     booktitle: "EPL, 112 (2015) 10004"
